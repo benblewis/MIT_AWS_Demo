@@ -3,3 +3,5 @@ This GitHub repository holds the code and data used in the AWS + MIT Criminal Ju
 
 In this demo, we will use police stop data from New York City in 2013. We'll walk you through how to access the data, how explore the data through tables and data visualizations, and how to uncover potential racial biases. 
 
+## The Data
+We will be using the "sqf-2013.csv" file in our analysis, which contains important features, like arrest borough, race of suspect, alleged crime committed, and the type of force used by the officer.
