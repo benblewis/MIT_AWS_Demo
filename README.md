@@ -2,7 +2,9 @@
 This GitHub repository holds the code and data used in the AWS + MIT Criminal Justice Data Analysis Demo
 
 **Analyzing NYC Police Stop Data**
+
 *by Ben Lewis and Jessy Han*
+
 MIT, Initiative on Combatting Systemic Racism - Policing Lab
 
 Bias in the criminal justice system can lead to poor decision making, leaving lasting impacts on individuals' lives. The Policing Lab at MIT's Initiative on Combatting Systemic Racism (ICSR) is dedicated to making dispatcher info, police stop info, and criminal sentencing data publicly available for professors, students, researchers, and anyone else interested in using these data to reduce bias in the field of criminal justice. With the help of Amazon Web Services (AWS), were doing just that.
